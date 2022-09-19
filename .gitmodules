@@ -1,0 +1,9 @@
+[submodule "NDMock"]
+	path = NDMock
+	url = https://github.com/shadowchamber/NDMock.git
+[submodule "NDMockTests"]
+	path = NDMockTests
+	url = https://github.com/shadowchamber/NDMockTests.git
+[submodule "NDMockExamples"]
+	path = NDMockExamples
+	url = https://github.com/shadowchamber/NDMockExamples.git
